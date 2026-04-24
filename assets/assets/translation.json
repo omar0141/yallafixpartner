@@ -433,7 +433,19 @@
     "appearance": "Appearance",
     "no_results": "No results found",
     "items": "Items",
-    "processing": "Processing"
+    "processing": "Processing",
+    "product_info": "Product Info",
+    "brand": "Brand",
+    "model": "Model",
+    "color": "Color",
+    "product_type": "Product Type",
+    "battery_part_no": "Battery Part No.",
+    "on_way_date": "On Way Date",
+    "arrived_date": "Arrived Date",
+    "received_date": "Received Date",
+    "estimated_fix_date": "Est. Fix Date",
+    "fixed_date": "Fixed Date",
+    "delivered_date": "Delivered Date"
   },
   "ar": {
     "language_iso": "ar",
@@ -869,6 +881,18 @@
     "appearance": "المظهر",
     "no_results": "لا توجد نتائج",
     "items": "العناصر",
-    "processing": "قيد المعالجة"
+    "processing": "قيد المعالجة",
+    "product_info": "معلومات المنتج",
+    "brand": "الماركة",
+    "model": "الموديل",
+    "color": "اللون",
+    "product_type": "نوع المنتج",
+    "battery_part_no": "رقم قطعة البطارية",
+    "on_way_date": "تاريخ التوجه",
+    "arrived_date": "تاريخ الوصول",
+    "received_date": "تاريخ الاستلام",
+    "estimated_fix_date": "التاريخ المتوقع للإصلاح",
+    "fixed_date": "تاريخ الإصلاح",
+    "delivered_date": "تاريخ التسليم"
   }
 }
