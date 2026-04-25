@@ -445,7 +445,17 @@
     "received_date": "Received Date",
     "estimated_fix_date": "Est. Fix Date",
     "fixed_date": "Fixed Date",
-    "delivered_date": "Delivered Date"
+    "delivered_date": "Delivered Date",
+    "accepted": "Accepted",
+    "on_way": "On My Way",
+    "arrived": "Arrived",
+    "received": "Received",
+    "under_maintenance": "Under Maintenance",
+    "start_maintenance": "Start Maintenance",
+    "fixed": "Fixed",
+    "delivered": "Delivered",
+    "state_updated": "Status updated successfully",
+    "select_estimated_date": "Select Estimated Fix Date"
   },
   "ar": {
     "language_iso": "ar",
@@ -893,6 +903,16 @@
     "received_date": "تاريخ الاستلام",
     "estimated_fix_date": "التاريخ المتوقع للإصلاح",
     "fixed_date": "تاريخ الإصلاح",
-    "delivered_date": "تاريخ التسليم"
+    "delivered_date": "تاريخ التسليم",
+    "accepted": "مقبول",
+    "on_way": "في الطريق",
+    "arrived": "وصلت",
+    "received": "تم الاستلام",
+    "under_maintenance": "قيد الصيانة",
+    "start_maintenance": "بدء الصيانة",
+    "fixed": "تم الإصلاح",
+    "delivered": "تم التسليم",
+    "state_updated": "تم تحديث الحالة بنجاح",
+    "select_estimated_date": "اختر التاريخ المتوقع للإصلاح"
   }
 }
