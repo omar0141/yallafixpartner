@@ -461,7 +461,16 @@
         "vip_cost": "VIP Cost",
         "discount": "Discount",
         "net_total": "Net Total",
-        "maintenance": "Maintenance"
+        "maintenance": "Maintenance",
+        "upload_received_photos": "Upload Received Device Photos",
+        "upload_delivered_photos": "Upload Delivered Device Photos",
+        "photo_upload_subtitle": "Add up to 3 photos of the device",
+        "add_photos": "Add Photos",
+        "photo_limit_reached": "Maximum 3 photos reached",
+        "live_fix": "Live Fix",
+        "received_photos": "Received Device Photos",
+        "delivered_photos": "Delivered Device Photos",
+        "no_photos": "No photos available"
     },
     "ar": {
         "language_iso": "ar",
@@ -925,6 +934,15 @@
         "vip_cost": "تكلفة VIP",
         "discount": "خصم",
         "net_total": "الإجمالي الصافي",
-        "maintenance": "الصيانة"
+        "maintenance": "الصيانة",
+        "upload_received_photos": "صور استلام الجهاز",
+        "upload_delivered_photos": "صور تسليم الجهاز",
+        "photo_upload_subtitle": "أضف حتى 3 صور للجهاز",
+        "add_photos": "إضافة صور",
+        "photo_limit_reached": "وصلت للحد الأقصى (3 صور)",
+        "live_fix": "إصلاح مباشر",
+        "received_photos": "صور استلام الجهاز",
+        "delivered_photos": "صور تسليم الجهاز",
+        "no_photos": "لا توجد صور"
     }
 }
