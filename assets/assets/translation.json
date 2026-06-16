@@ -588,7 +588,13 @@
     "use_current_location": "Use Current Location",
     "pick_location_from_map": "Pick Location from Map",
     "getting_current_location": "Getting your location...",
-    "location_permission_denied": "Location permission denied"
+    "location_permission_denied": "Location permission denied",
+    "account_blocked_title": "Account Blocked",
+    "account_blocked_message": "Your account has been blocked. Please contact support for more information.",
+    "contact_support": "Contact Support",
+    "account_inactive": "Account Inactive",
+    "account_inactive_msg": "Your account is currently inactive. Please contact support to reactivate your account.",
+    "close": "Close"
   },
   "ar": {
     "language_iso": "ar",
@@ -1179,6 +1185,12 @@
     "use_current_location": "استخدام موقعي الحالي",
     "pick_location_from_map": "اختر الموقع من الخريطة",
     "getting_current_location": "جاري تحديد موقعك...",
-    "location_permission_denied": "تم رفض إذن الموقع"
+    "location_permission_denied": "تم رفض إذن الموقع",
+    "account_blocked_title": "الحساب محظور",
+    "account_blocked_message": "تم حظر حسابك. يرجى التواصل مع الدعم للحصول على مزيد من المعلومات.",
+    "contact_support": "تواصل مع الدعم",
+    "account_inactive": "الحساب غير نشط",
+    "account_inactive_msg": "حسابك غير نشط حالياً. يرجى التواصل مع الدعم لإعادة تفعيل حسابك.",
+    "close": "إغلاق"
   }
 }
