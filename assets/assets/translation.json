@@ -601,7 +601,8 @@
     "contact_support": "Contact Support",
     "account_inactive": "Account Inactive",
     "account_inactive_msg": "Your account is currently inactive. Please contact support to reactivate your account.",
-    "close": "Close"
+    "close": "Close",
+    "lcd_grade": "LCD Grade"
   },
   "ar": {
     "language_iso": "ar",
@@ -1205,6 +1206,7 @@
     "contact_support": "تواصل مع الدعم",
     "account_inactive": "الحساب غير نشط",
     "account_inactive_msg": "حسابك غير نشط حالياً. يرجى التواصل مع الدعم لإعادة تفعيل حسابك.",
-    "close": "إغلاق"
+    "close": "إغلاق",
+    "lcd_grade": "تقييم الشاشة"
   }
 }
