@@ -608,7 +608,8 @@
     "account_inactive": "Account Inactive",
     "account_inactive_msg": "Your account is currently inactive. Please contact support to reactivate your account.",
     "close": "Close",
-    "lcd_grade": "LCD Grade"
+    "lcd_grade": "LCD Grade",
+    "map_api_key_missing": "Map could not be loaded: the map service API key is not configured."
   },
   "ar": {
     "language_iso": "ar",
@@ -1219,6 +1220,7 @@
     "account_inactive": "الحساب غير نشط",
     "account_inactive_msg": "حسابك غير نشط حالياً. يرجى التواصل مع الدعم لإعادة تفعيل حسابك.",
     "close": "إغلاق",
-    "lcd_grade": "تقييم الشاشة"
+    "lcd_grade": "تقييم الشاشة",
+    "map_api_key_missing": "تعذر تحميل الخريطة: لم يتم إعداد مفتاح API لخدمة الخرائط."
   }
 }
